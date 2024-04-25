@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+.test {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+}
+.add {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+}
