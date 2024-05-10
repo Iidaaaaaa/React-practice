@@ -19,4 +19,12 @@ const Alt = () => {
     </div>
   );
 };
-export { Hello, Alt };
+const Beta = () => {
+  return (
+    <div className="add">
+      <h2>４月２６日</h2>
+      <p>Reactお勉強</p>
+    </div>
+  );
+};
+export { Hello, Alt, Beta };

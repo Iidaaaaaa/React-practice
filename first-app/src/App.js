@@ -5,6 +5,7 @@ function App() {
     <div>
       <Hello />
       <Alt />
+      <Beta />
     </div>
   );
 }
